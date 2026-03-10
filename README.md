@@ -1,8 +1,8 @@
 # Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
-# DATE:                                                                            
+# DATE: 10-03-2026                                                                            
 
-# REGISTER NUMBER : 
+# REGISTER NUMBER : 212225040203
 
 # Aim: To write the prompts for these following prompt types and evaluate that using any one method 
 
@@ -44,6 +44,8 @@ Procedure:
 
 
 # OUTPUT: 
+[Ex3prompt.pdf](https://github.com/user-attachments/files/25876376/Ex3prompt.pdf)
+
 
 
 # RESULT: The various types of Prompts are executed successfully with generated the report.
